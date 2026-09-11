@@ -1,8 +1,3 @@
-getgenv().Resolution = { [".gg/scripters"] = 0.53 } local Camera = workspace.CurrentCamera if getgenv().gg_scripters == nil then game:GetService("RunService").RenderStepped:Connect( function() Camera.CFrame = Camera.CFrame * CFrame.new(0, 0, 0, 1, 0, 0, 0, getgenv().Resolution[".gg/scripters"], 0, 0, 0, 1) end ) end getgenv().gg_scripters = "Aori0001"-- =========================================================================
--- [ MEMESENSE - FULL BUILD | RAINBOW CUBE + TRACERS + GRENADE ESP + WEAPON ESP ]
--- [ BloxStrike Edition | by Axiom ]
--- =========================================================================
-
 local MaterialLimits = {
     [Enum.Material.Asphalt] = 0.25,
     [Enum.Material.Basalt] = 0.25,
