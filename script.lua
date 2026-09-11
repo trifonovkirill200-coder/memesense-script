@@ -1,3 +1,8 @@
+-- =========================================================================
+-- [ MEMESENSE - FULL BUILD | RAINBOW CUBE + TRACERS + GRENADE ESP + WEAPON ESP ]
+-- [ BloxStrike Edition | by Axiom ]
+-- =========================================================================
+
 local MaterialLimits = {
     [Enum.Material.Asphalt] = 0.25,
     [Enum.Material.Basalt] = 0.25,
